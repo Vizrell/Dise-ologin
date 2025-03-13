@@ -1,0 +1,79 @@
+body {
+   
+    background-image: url('pl.png');
+     background-size: cover;
+     background-position:center ;
+     background-repeat:no-repeat  ;
+    background-attachment:fixed ;
+    margin: 0;
+}
+
+img {
+    width: 150px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#formulario {
+    
+    color: black;
+    font-size: 25px;
+    background-color:white;
+    border-style:inherit;
+    padding: 150px 150px 250px 150px;
+    margin-top: px;
+    margin-left: 400px;
+    width: 300px;
+    border-radius: 30px;
+    opacity: 0.8;
+    
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.user {
+    margin-bottom: 50px ;
+    width: 300px;
+    height: 45px;
+    font-size: 20px;
+}   
+
+.pass {
+    margin-bottom: 50px ;
+    width: 300px;
+    height: 45px;
+    font-size: 20px;
+}
+
+.log {
+    width: 300px;
+    height: 45px;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#registro {
+    
+    color: black;
+    font-size: 25px;
+    background-color:white;
+    border-style:inherit;
+    padding: 10px 100px 200px 100px;
+    margin-right: 50px;
+    margin-top: 300px;
+    width: 100px;
+    border-radius: 30px;
+    opacity: 0.8;
+    display: flexbox;
+    text-align: right;
+}
